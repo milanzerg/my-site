@@ -3,7 +3,7 @@ body {
   font-size: 16px;
   line-height: 26px;
   font-family: "Arial", sans-serif;
-  color: #222222;
+  color: #ff4400;
   background: #222222 url("img/bg.jpg") no-repeat top center;
 }
 
@@ -90,7 +90,7 @@ i {
   margin-bottom: 30px;
   padding: 20px;
 
-  background-color: rgba(68, 112, 196, 0.7);
+  background-color: rgba(225, 0, 0, 0.7);
   border: 5px solid #2d508f;
 
   color: #ffffff;
