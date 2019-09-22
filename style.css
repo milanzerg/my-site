@@ -4,7 +4,7 @@ body {
   line-height: 26px;
   font-family: "Arial", sans-serif;
   color: ghostwhite;
-  background: darkred url("files/puma.jpg") no-repeat top center;
+  background: #2F4F4F url("files/puma.jpg") no-repeat top center;
 }
 
 h1 {
