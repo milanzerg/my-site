@@ -130,6 +130,15 @@ i {
 .skills-level-ok {
   background-color: #47bb52;
 }
+.loses{
+  background-color: rgba(225, 0, 0, 0.7);
+}
+.wins{
+  background-color: #47bb52;
+}
+.draws{
+  bacground-color: #ff4400;
+}
 
 .days {
   list-style: none;
